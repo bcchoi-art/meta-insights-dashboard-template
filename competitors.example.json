@@ -1,0 +1,8 @@
+{
+  "x": [
+    { "handle": "example_overseas_account", "lang": "en" }
+  ],
+  "threads": [
+    { "handle": "example.domestic.account", "lang": "kr" }
+  ]
+}

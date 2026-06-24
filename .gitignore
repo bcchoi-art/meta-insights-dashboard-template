@@ -1,0 +1,27 @@
+# 시크릿 / 개인 설정 — 절대 커밋 금지
+accounts.json
+competitors.json
+.env
+.env.local
+.vercel-token
+*.token
+
+# 로컬 데이터 캐시 / 생성물
+posts-cache.json
+account-snapshots.json
+competitors-cache.json
+content-recommendations.json
+dashboard.html
+data/
+cron.log
+launchd.log
+
+# Vercel 배포 스테이징
+.vercel/
+.deploy/
+_deploy/
+
+# 의존성 / OS / 도구
+node_modules/
+.DS_Store
+.omc/
