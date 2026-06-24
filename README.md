@@ -71,6 +71,8 @@ VERCEL_PROJECT=내프로젝트명 bash deploy.sh
 | `src/render.mjs` | Presentation | 단일 HTML 렌더링 |
 | `dashboard.mjs` | 엔트리 | 위 4계층 조립·실행 |
 
+> 📋 **담당자 인수인계**는 [RUNBOOK.md](./RUNBOOK.md) 를 보세요 — 운영·토큰 갱신·문제해결 매뉴얼.
+
 ## 설정 파일
 
 | 파일 | 용도 | git |

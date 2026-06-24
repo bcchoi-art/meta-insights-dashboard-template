@@ -50,6 +50,8 @@
    ```
    자동 갱신은 cron/launchd로 `node dashboard.mjs`를 주기 실행(2시간 권장).
 
+운영/토큰 만료 대처는 RUNBOOK.md 참고. 토큰 갱신은 `node refresh-tokens.mjs`.
+
 ---
 
 ## 아키텍처 (3계층)
