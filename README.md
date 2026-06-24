@@ -22,6 +22,8 @@ Threads + Instagram 계정 성과 + 경쟁사 레퍼런스를 자동 집계해 *
 
 ## 5분 퀵스타트
 
+> **🚀 제일 쉬운 길**: 터미널에서 `bash setup.sh` — Node 확인부터 토큰 입력·검증·대시보드 생성까지 대화형으로 안내합니다. (토큰 발급은 먼저 [SETUP.md](./SETUP.md) 참고)
+
 ```bash
 # 1. 클론
 git clone <repo> && cd meta-insights-dashboard-template
